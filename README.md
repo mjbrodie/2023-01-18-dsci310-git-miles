@@ -15,3 +15,4 @@ Intro Git Demo
 
 - `git branch <name>`: Will create a <branch> name wherever you are
 - `git switch <name>`: Will go to <name>
+- `git switch -c <name>`: Will create a branch and then move to it
