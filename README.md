@@ -9,3 +9,9 @@ Intro Git Demo
     - `git commit -m "MESSAGE"`:  create the git message directly in the command line
 
 - `git push origin main`: sends code from branch 'main' local computer to the remote 'origin' 
+
+
+## branches
+
+- `git branch <name>`: Will create a <branch> name wherever you are
+- `git switch <name>`: Will go to <name>
